@@ -22,3 +22,7 @@
 
 
 *OUTPUT* : 
+
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/a55feb90-1072-49b4-9260-ea908a881065" />
+
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/e9dd8035-7786-4777-86b1-86f142400f44" />
